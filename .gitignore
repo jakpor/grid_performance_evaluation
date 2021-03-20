@@ -4,3 +4,6 @@
 *.ogd
 *.csv
 *.txt
+*ref_02.mat
+*ref_03.mat
+*_ref_*
